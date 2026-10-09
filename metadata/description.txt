@@ -1,0 +1,24 @@
+Polinodrom is a once-a-day card for people who will open one small prompt and either keep it or skip the day. Each calendar day deals a single stub from a fixed set of eight, with no streak, no program, and no account.
+
+• One stub per calendar day from the bundled eight, in a fixed rotation
+• Walk — Step outside for ten minutes and come back.
+• Water — Drink one full glass of water before the next task.
+• Page — Read one page of something already on the shelf.
+• Stretch — Roll both shoulders slowly, ten times each way.
+• Thanks — Send a short thanks to one person you meant to write.
+• Clear — Clear one small surface you look at every day.
+• Breath — Take six slow breaths with both feet on the floor.
+• Song — Play one song all the way through, then stop.
+• Onboarding: One card today, Reveal, then crease, and Pass without a streak, with Skip and Continue on every page
+• Today's card is waiting, then Crease on that plate to reveal the word and micro-action
+• Reveal, Pass, Retract, and drag Crease to file today as Kept
+• Pass leaves the year cell empty, with no streak and no penalty
+• Retract undoes today's Kept or Passed the same day
+• Collection of creased stubs on this device
+• Year wall of Kept, Passed, Sealed, and Revealed days
+• Export collection as a shareable text file
+• Contact for support
+• Run onboarding again
+• Erase the collection after a confirm
+
+Creases, passes, and today's card stay on this device unless the person exports or erases.

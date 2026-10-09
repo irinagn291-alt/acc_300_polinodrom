@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="col-vc">
+    <scenes>
+        <scene sceneID="col-scene">
+            <objects>
+                <viewController id="col-vc" customClass="CollectionViewController" customModule="Perforator" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="col-root">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" translatesAutoresizingMaskIntoConstraints="NO" id="col-table">
+                                <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                            </tableView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="col-safe"/>
+                        <constraints>
+                            <constraint firstItem="col-table" firstAttribute="leading" secondItem="col-root" secondAttribute="leading" id="ct1"/>
+                            <constraint firstItem="col-table" firstAttribute="trailing" secondItem="col-root" secondAttribute="trailing" id="ct2"/>
+                            <constraint firstItem="col-table" firstAttribute="top" secondItem="col-root" secondAttribute="top" id="ct3"/>
+                            <constraint firstItem="col-table" firstAttribute="bottom" secondItem="col-root" secondAttribute="bottom" id="ct4"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="tableView" destination="col-table" id="out-table"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="col-fr" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="0.0" y="0.0"/>
+        </scene>
+    </scenes>
+</document>

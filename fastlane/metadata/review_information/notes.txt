@@ -1,0 +1,23 @@
+No permission prompts appear. There are no usage-description strings.
+
+There is no login, no in-app purchase, no user-generated content, no account deletion flow, and no App Tracking Transparency prompt.
+
+Polinodrom is a once-a-day card for people who will open one small prompt and either keep it or skip the day. Each calendar day deals a single stub: a short word and a micro-action from a fixed set of eight. There is no streak, no program, and no account.
+
+No credentials or demo account are needed. Cold launch is a pale, empty screen with no wordmark, no illustration, and no buttons. The home screen then opens. If onboarding has not been finished, a full-screen sequence covers home. Skip is on every page and ends onboarding. Continue advances. The pages are One card today (The day deals a single stub from the bundled stock.), Reveal, then crease (Open the card, then drag the perforation onto the year.), and Pass without a streak (Skip the day and the cell stays empty. No penalty.). On the last page the button still reads Continue and then shows today. After Skip or the last Continue, home is today's card. There is no sign-in and no tab bar.
+
+While today is still Sealed, the plate Today's card is waiting shows Drag the perforation after you reveal it. and Crease. Tap Crease to reveal today's card. It does not crease yet. The plate then hides. The icons Collection, Year, and Settings stay available. After a reveal, drag the bottom Crease most of the way to the right to file today as Kept, or tap Pass to file today as empty on the year wall. Retract undoes today's Kept or Passed and returns the card to Revealed. Retract works only for today.
+
+Open Collection from the Collection icon. The title is Collection plus the count, for example Collection 0. Close dismisses the sheet. When none are creased, the plate is No stubs creased yet, Crease today's stub and it files here., and Crease, which only closes the sheet. Open Year from the Year icon. The title is Year. Close dismisses the sheet. The wall starts at 1 January and does not jump to today. On a new install most rows read Sealed. Scroll to find today. Tap a row for an alert, then Close. Open Settings from the Settings icon. The title is Settings. Close dismisses the sheet. Export collection opens the system share sheet. If nothing is creased yet, the file text is No stubs creased yet. Contact opens the support page. Run onboarding again closes Settings and shows the three onboarding pages on return to home. Existing creases and passes are not erased. Erase the collection shows Erase the collection? and Creased stubs on this device are deleted. Keep dismisses. Erase clears creased stubs, passed days, and the year wall; today becomes a sealed card again; onboarding is not shown again.
+
+If home shows Today's stub did not open, tap Try again. If Collection shows The collection could not be read, tap Try again. If Year shows The year could not be read, tap Crease to close the sheet.
+
+Creases, passes, and today's card stay on this device unless the person uses Export collection or Erase the collection. Contact in Settings opens the support page.
+
+Interface copy is English. Month names on Year follow the device region and language. Numbers are shown without grouping separators. The calendar day is the device's local day. Behaviour does not otherwise differ by region.
+
+No licence or regulated-industry paperwork applies. The daily stubs are ordinary prompts, not health or medical information, and there are no citations.
+
+The app is a personal log only and gives no recommendations.
+
+The app does not scan barcodes or QR codes.

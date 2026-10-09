@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="poster-vc">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <scene sceneID="poster-scene">
+            <objects>
+                <viewController id="poster-vc" customClass="PosterViewController" customModule="Perforator" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="poster-root">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="perf-view" customClass="PerforationView" customModule="Perforator" customModuleProvider="target">
+                                <rect key="frame" x="16" y="760" width="361" height="56"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="creaseFraction">
+                                        <real key="value" value="0.0"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="faceUp" value="NO"/>
+                                </userDefinedRuntimeAttributes>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="safe"/>
+                        <constraints>
+                            <constraint firstItem="perf-view" firstAttribute="leading" secondItem="safe" secondAttribute="leading" constant="16" id="c1"/>
+                            <constraint firstItem="safe" firstAttribute="trailing" secondItem="perf-view" secondAttribute="trailing" constant="16" id="c2"/>
+                            <constraint firstItem="safe" firstAttribute="bottom" secondItem="perf-view" secondAttribute="bottom" constant="16" id="c3"/>
+                            <constraint firstItem="perf-view" firstAttribute="height" constant="56" id="c4"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="perforationView" destination="perf-view" id="out-perf"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="poster-fr" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="0.0" y="0.0"/>
+        </scene>
+    </scenes>
+</document>

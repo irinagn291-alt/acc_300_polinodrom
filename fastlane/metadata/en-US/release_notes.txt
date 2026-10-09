@@ -1,0 +1,11 @@
+This is version 1.0, the first release of Polinodrom.
+
+Polinodrom is a once-a-day card. Each calendar day deals a single stub from a fixed set of eight. There is no streak, no program, and no account.
+
+• Onboarding pages One card today, Reveal, then crease, and Pass without a streak, with Skip and Continue
+• Today with Reveal, Pass, Retract, and drag Crease
+• Collection of creased stubs on this device
+• Year wall of Kept, Passed, Sealed, and Revealed days
+• Settings with Export collection, Contact, Run onboarding again, and Erase the collection
+• The eight stubs are Walk, Water, Page, Stretch, Thanks, Clear, Breath, and Song
+• Portrait only, light appearance, full screen, for iPhone and iPad. Minimum iOS 17.0

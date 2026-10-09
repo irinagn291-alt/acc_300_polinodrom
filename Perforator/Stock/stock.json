@@ -1,0 +1,10 @@
+[
+  {"id": "walk-out", "word": "Walk", "action": "Step outside for ten minutes and come back."},
+  {"id": "water-glass", "word": "Water", "action": "Drink one full glass of water before the next task."},
+  {"id": "one-page", "word": "Page", "action": "Read one page of something already on the shelf."},
+  {"id": "stretch-shoulders", "word": "Stretch", "action": "Roll both shoulders slowly, ten times each way."},
+  {"id": "name-thanks", "word": "Thanks", "action": "Send a short thanks to one person you meant to write."},
+  {"id": "clear-surface", "word": "Clear", "action": "Clear one small surface you look at every day."},
+  {"id": "slow-breath", "word": "Breath", "action": "Take six slow breaths with both feet on the floor."},
+  {"id": "one-song", "word": "Song", "action": "Play one song all the way through, then stop."}
+]

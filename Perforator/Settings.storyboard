@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="set-vc">
+    <scenes>
+        <scene sceneID="set-scene">
+            <objects>
+                <viewController id="set-vc" customClass="SettingsViewController" customModule="Perforator" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="set-root">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" translatesAutoresizingMaskIntoConstraints="NO" id="set-table">
+                                <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                            </tableView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="set-safe"/>
+                        <constraints>
+                            <constraint firstItem="set-table" firstAttribute="leading" secondItem="set-root" secondAttribute="leading" id="s1"/>
+                            <constraint firstItem="set-table" firstAttribute="trailing" secondItem="set-root" secondAttribute="trailing" id="s2"/>
+                            <constraint firstItem="set-table" firstAttribute="top" secondItem="set-root" secondAttribute="top" id="s3"/>
+                            <constraint firstItem="set-table" firstAttribute="bottom" secondItem="set-root" secondAttribute="bottom" id="s4"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="tableView" destination="set-table" id="out-set"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="set-fr" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="0.0" y="0.0"/>
+        </scene>
+    </scenes>
+</document>
