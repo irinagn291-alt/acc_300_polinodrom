@@ -1,4 +1,4 @@
-<!-- gf-brief source=a16b865f7428f8685151daaa44a9bae8e3f34ed370ae98b1e43f7ce27c45659a written=2026-10-09T12:51:03+03:00 -->
+<!-- gf-brief source=de539916e898ffbe329c3bbba6cc0d1b244d7b9741bbfaa7665db639886abdef written=2026-10-09T12:53:22+03:00 -->
 # Polinodrom
 ## What it is
 Polinodrom is a once-a-day card for people who will open one small prompt and either keep it or skip the day. Each calendar day deals a single stub: a short word and a micro-action from a fixed set of eight. There is no streak, no program, and no account.
