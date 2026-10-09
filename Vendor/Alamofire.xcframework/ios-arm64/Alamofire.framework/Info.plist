@@ -3,6 +3,10 @@
 <plist version="1.0"><dict>
 <key>CFBundleExecutable</key><string>Alamofire</string>
 <key>CFBundleIdentifier</key><string>com.alamofire</string>
+<key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+<key>CFBundleName</key><string>Alamofire</string>
 <key>CFBundlePackageType</key><string>FMWK</string>
+<key>CFBundleShortVersionString</key><string>1.0.0</string>
+<key>CFBundleVersion</key><string>1</string>
 <key>MinimumOSVersion</key><string>17.0</string>
 </dict></plist>
